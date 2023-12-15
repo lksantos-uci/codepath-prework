@@ -2,10 +2,7 @@
 This is the CodePath prework assignment, a basic iOS application that has three labels and a button. The button changes the background color.
 
 <div>
-    <a href="https://www.loom.com/share/c5dac22b02bb423d933cce70586c1c01">
-    </a>
-    <a href="https://www.loom.com/share/c5dac22b02bb423d933cce70586c1c01">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c5dac22b02bb423d933cce70586c1c01-with-play.gif">
+    <a href="https://www.loom.com/share/9021260e0e444fbcb4b842c58d12f13c">
     </a>
 </div>
 
