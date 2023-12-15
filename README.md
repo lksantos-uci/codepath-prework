@@ -1,7 +1,13 @@
 # codepath-prework
 This is the CodePath prework assignment, a basic iOS application that has three labels and a button. The button changes the background color.
 
-<div style="position: relative; padding-bottom: 212.40157480314957%; height: 0;"><iframe src="https://www.loom.com/embed/c5dac22b02bb423d933cce70586c1c01?sid=5f191eb8-8cc4-4889-a640-0dae93ff45df" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/c5dac22b02bb423d933cce70586c1c01">
+    </a>
+    <a href="https://www.loom.com/share/c5dac22b02bb423d933cce70586c1c01">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c5dac22b02bb423d933cce70586c1c01-with-play.gif">
+    </a>
+</div>
 
 # Prework - Change Background Color 
 
@@ -35,6 +41,7 @@ The following **required** functionality is completed:
 ## Notes
 
 Describe any challenges encountered while building the app. 
+
     Knowing nothing about iOS development, I struggled the most when I had to connect the logic to the button. When I selected the button and pressed Ctrl then dragged on it, I accidentally inserted an outlet rather than action. Also, Ctrl and drag did not work initially, but relaunching Xcode resolved the issue. 
 
 ## License
