@@ -4,6 +4,9 @@ This is the CodePath prework assignment, a basic iOS application that has three 
 <div>
     <a href="https://www.loom.com/share/9021260e0e444fbcb4b842c58d12f13c">
     </a>
+    <a href="https://www.loom.com/share/9021260e0e444fbcb4b842c58d12f13c">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9021260e0e444fbcb4b842c58d12f13c-with-play.gif">
+    </a>
 </div>
 
 # Prework - Change Background Color 
@@ -39,7 +42,7 @@ The following **required** functionality is completed:
 
 Describe any challenges encountered while building the app. 
 
-    Knowing nothing about iOS development, I struggled the most when I had to connect the logic to the button. When I selected the button and pressed Ctrl then dragged on it, I accidentally inserted an outlet rather than action. Also, Ctrl and drag did not work initially, but relaunching Xcode resolved the issue. 
+Knowing nothing about iOS development, I struggled the most when I had to connect the logic to the button. When I selected the button and pressed Ctrl then dragged on it, I accidentally inserted an outlet rather than action. Also, Ctrl and drag did not work initially, but relaunching Xcode resolved the issue. 
 
 ## License
 
